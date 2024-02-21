@@ -7,3 +7,8 @@ printf("Parent Process ID: %d\n", getpid() );
   return 0;
 }
 
+
+output:
+Process ID: 17588
+Parent Process ID: 17588
+
